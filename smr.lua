@@ -238,7 +238,7 @@ Converted["_Open"].Selectable = false
 Converted["_Open"].Size = UDim2.new(0, 493, 0, 50)
 Converted["_Open"].Visible = false
 Converted["_Open"].Name = "Open"
-Converted["_Open"].Parent = Converted["_YARHM"]
+Converted["_Open"].Parent = Converted["SMR"]
 Converted["_UICorner"].Parent = Converted["_Open"]
 Converted["_UIPadding"].PaddingBottom = UDim.new(0, 10)
 Converted["_UIPadding"].PaddingLeft = UDim.new(0, 20)
@@ -252,7 +252,7 @@ Converted["_DropdownFrameSample"].BorderSizePixel = 0
 Converted["_DropdownFrameSample"].Size = UDim2.new(0, 108, 0, 239)
 Converted["_DropdownFrameSample"].Visible = false
 Converted["_DropdownFrameSample"].Name = "DropdownFrameSample"
-Converted["_DropdownFrameSample"].Parent = Converted["_YARHM"]
+Converted["_DropdownFrameSample"].Parent = Converted["SMR"]
 Converted["_UICorner1"].Parent = Converted["_DropdownFrameSample"]
 Converted["_UIGradient"].Color = ColorSequence.new{
 	ColorSequenceKeypoint.new(0, Color3.fromRGB(36.00000165402889, 36.00000165402889, 36.00000165402889)),
@@ -331,7 +331,7 @@ Converted["_Notifications"].BorderSizePixel = 0
 Converted["_Notifications"].Position = UDim2.new(0.99000001, 0, 0.5, 0)
 Converted["_Notifications"].Size = UDim2.new(0, 242, 1, 0)
 Converted["_Notifications"].Name = "Notifications"
-Converted["_Notifications"].Parent = Converted["_YARHM"]
+Converted["_Notifications"].Parent = Converted["SMR"]
 Converted["_UIListLayout1"].Padding = UDim.new(0, 10)
 Converted["_UIListLayout1"].HorizontalAlignment = Enum.HorizontalAlignment.Center
 Converted["_UIListLayout1"].SortOrder = Enum.SortOrder.LayoutOrder
@@ -370,7 +370,7 @@ Converted["_TextBoxPlaceholder"].BorderSizePixel = 0
 Converted["_TextBoxPlaceholder"].Size = UDim2.new(1, 0, 0, 50)
 Converted["_TextBoxPlaceholder"].Visible = false
 Converted["_TextBoxPlaceholder"].Name = "TextBoxPlaceholder"
-Converted["_TextBoxPlaceholder"].Parent = Converted["_YARHM"]
+Converted["_TextBoxPlaceholder"].Parent = Converted["SMR"]
 Converted["_UIListLayout2"].Padding = UDim.new(0, 5)
 Converted["_UIListLayout2"].FillDirection = Enum.FillDirection.Horizontal
 Converted["_UIListLayout2"].HorizontalAlignment = Enum.HorizontalAlignment.Center
@@ -418,7 +418,7 @@ Converted["_FloatingButton"].Position = UDim2.new(0, 125, 0, 40)
 Converted["_FloatingButton"].Size = UDim2.new(0, 50, 0, 100)
 Converted["_FloatingButton"].Visible = false
 Converted["_FloatingButton"].Name = "FloatingButton"
-Converted["_FloatingButton"].Parent = Converted["_YARHM"]
+Converted["_FloatingButton"].Parent = Converted["SMR"]
 Converted["_UIPadding5"].PaddingBottom = UDim.new(0, 5)
 Converted["_UIPadding5"].PaddingLeft = UDim.new(0, 5)
 Converted["_UIPadding5"].PaddingRight = UDim.new(0, 5)
@@ -455,7 +455,7 @@ Converted["_FloatingButtons"].Position = UDim2.new(0.5, 0, 0.5, 0)
 Converted["_FloatingButtons"].Size = UDim2.new(1, 0, 1, 0)
 Converted["_FloatingButtons"].ZIndex = 3
 Converted["_FloatingButtons"].Name = "FloatingButtons"
-Converted["_FloatingButtons"].Parent = Converted["_YARHM"]
+Converted["_FloatingButtons"].Parent = Converted["SMR"]
 Converted["_AddCustomModule"].AnchorPoint = Vector2.new(0.5, 0.5)
 Converted["_AddCustomModule"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_AddCustomModule"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -465,7 +465,7 @@ Converted["_AddCustomModule"].Position = UDim2.new(0.5, 0, -0.5, 0)
 Converted["_AddCustomModule"].Size = UDim2.new(0, 440, 0, 268)
 Converted["_AddCustomModule"].ZIndex = 3
 Converted["_AddCustomModule"].Name = "AddCustomModule"
-Converted["_AddCustomModule"].Parent = Converted["_YARHM"]
+Converted["_AddCustomModule"].Parent = Converted["SMR"]
 Converted["_UICorner8"].Parent = Converted["_AddCustomModule"]
 Converted["_UIStroke2"].Color = Color3.fromRGB(255, 255, 255)
 Converted["_UIStroke2"].Thickness = 2
@@ -715,7 +715,7 @@ Converted["_HubDesc"].Size = UDim2.new(0.470515788, 0, 0.082417585, 0)
 Converted["_HubDesc"].Name = "HubDesc"
 Converted["_HubDesc"].Parent = Converted["_Menu"]
 Converted["_HubName"].Font = Enum.Font.GothamBold
-Converted["_HubName"].Text = "YARHM"
+Converted["_HubName"].Text = "SMR"
 Converted["_HubName"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubName"].TextScaled = true
 Converted["_HubName"].TextSize = 14
@@ -927,7 +927,7 @@ Converted["_Toggler"].Name = "Toggler"
 Converted["_Toggler"].Parent = Converted["_Frame2"]
 Converted["_UICorner19"].CornerRadius = UDim.new(1, 0)
 Converted["_UICorner19"].Parent = Converted["_Toggler"]
-Converted["_ImageLabel1"].Image = "rbxassetid://10002373478"
+Converted["_ImageLabel1"].Image = "rbxassetid://74603139524347"
 Converted["_ImageLabel1"].ImageColor3 = Color3.fromRGB(255, 0, 4.000000236555934)
 -- Converted["_ImageLabel1"].ImageContent = Content
 Converted["_ImageLabel1"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -941,7 +941,7 @@ Converted["_ImageLabel1"].Parent = Converted["_Toggler"]
 Converted["_UIPadding12"].PaddingRight = UDim.new(0.0700000003, 0)
 Converted["_UIPadding12"].Parent = Converted["_Toggle"]
 Converted["_Modules"].Name = "Modules"
-Converted["_Modules"].Parent = Converted["_YARHM"]
+Converted["_Modules"].Parent = Converted["SMR"]
 Converted["_NotificationSample"].AnchorPoint = Vector2.new(0.5, 0)
 Converted["_NotificationSample"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_NotificationSample"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -952,7 +952,7 @@ Converted["_NotificationSample"].Size = UDim2.new(0, 400, 0, 50)
 Converted["_NotificationSample"].Visible = false
 Converted["_NotificationSample"].ZIndex = 5
 Converted["_NotificationSample"].Name = "NotificationSample"
-Converted["_NotificationSample"].Parent = Converted["_YARHM"]
+Converted["_NotificationSample"].Parent = Converted["SMR"]
 Converted["_UICorner20"].CornerRadius = UDim.new(0, 10)
 Converted["_UICorner20"].Parent = Converted["_NotificationSample"]
 Converted["_UIStroke8"].Color = Color3.fromRGB(255, 255, 255)
@@ -975,7 +975,7 @@ if not game:IsLoaded() then
 end
 		-- Instances:
 local Converted = {
-	["_YARHM"] = Instance.new("ScreenGui");
+	["SMR"] = Instance.new("ScreenGui");
 	["_Open"] = Instance.new("TextButton");
 	["_UICorner"] = Instance.new("UICorner");
 	["_InitOpen"] = Instance.new("LocalScript");
@@ -1179,13 +1179,13 @@ local Converted = {
 	["_PointSave"] = Instance.new("ModuleScript");
 }
 -- Properties:
-Converted["_YARHM"].DisplayOrder = 3
-Converted["_YARHM"].IgnoreGuiInset = true
-Converted["_YARHM"].ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
-Converted["_YARHM"].ResetOnSpawn = false
-Converted["_YARHM"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-Converted["_YARHM"].Name = "SMR"
-Converted["_YARHM"].Parent = game:GetService("CoreGui")
+Converted["SMR"].DisplayOrder = 3
+Converted["SMR"].IgnoreGuiInset = true
+Converted["SMR"].ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
+Converted["SMR"].ResetOnSpawn = false
+Converted["SMR"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+Converted["SMR"].Name = "SMR"
+Converted["SMR"].Parent = game:GetService("CoreGui")
 Converted["_Open"].Font = Enum.Font.Gotham
 Converted["_Open"].Text = "Triple-click this region to open YARHM."
 Converted["_Open"].TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -1203,7 +1203,7 @@ Converted["_Open"].Selectable = false
 Converted["_Open"].Size = UDim2.new(0, 493, 0, 50)
 Converted["_Open"].Visible = false
 Converted["_Open"].Name = "Open"
-Converted["_Open"].Parent = Converted["_YARHM"]
+Converted["_Open"].Parent = Converted["SMR"]
 Converted["_UICorner"].Parent = Converted["_Open"]
 Converted["_UIPadding"].PaddingBottom = UDim.new(0, 10)
 Converted["_UIPadding"].PaddingLeft = UDim.new(0, 20)
@@ -1217,7 +1217,7 @@ Converted["_DropdownFrameSample"].BorderSizePixel = 0
 Converted["_DropdownFrameSample"].Size = UDim2.new(0, 108, 0, 239)
 Converted["_DropdownFrameSample"].Visible = false
 Converted["_DropdownFrameSample"].Name = "DropdownFrameSample"
-Converted["_DropdownFrameSample"].Parent = Converted["_YARHM"]
+Converted["_DropdownFrameSample"].Parent = Converted["SMR"]
 Converted["_UICorner1"].Parent = Converted["_DropdownFrameSample"]
 Converted["_UIGradient"].Color = ColorSequence.new{
 	ColorSequenceKeypoint.new(0, Color3.fromRGB(36.00000165402889, 36.00000165402889, 36.00000165402889)),
@@ -1286,7 +1286,7 @@ Converted["_ListButton"].Position = UDim2.new(0.0450000018, 0, 0.112000003, 0)
 Converted["_ListButton"].Size = UDim2.new(1, 0, 0, 50)
 Converted["_ListButton"].Visible = false
 Converted["_ListButton"].Name = "ListButton"
-Converted["_ListButton"].Parent = Converted["_YARHM"]
+Converted["_ListButton"].Parent = Converted["SMR"]
 Converted["_UICorner3"].Parent = Converted["_ListButton"]
 Converted["_Notifications"].AnchorPoint = Vector2.new(1, 0.5)
 Converted["_Notifications"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -1296,7 +1296,7 @@ Converted["_Notifications"].BorderSizePixel = 0
 Converted["_Notifications"].Position = UDim2.new(0.99000001, 0, 0.5, 0)
 Converted["_Notifications"].Size = UDim2.new(0, 242, 1, 0)
 Converted["_Notifications"].Name = "Notifications"
-Converted["_Notifications"].Parent = Converted["_YARHM"]
+Converted["_Notifications"].Parent = Converted["SMR"]
 Converted["_UIListLayout1"].Padding = UDim.new(0, 10)
 Converted["_UIListLayout1"].HorizontalAlignment = Enum.HorizontalAlignment.Center
 Converted["_UIListLayout1"].SortOrder = Enum.SortOrder.LayoutOrder
@@ -1335,7 +1335,7 @@ Converted["_TextBoxPlaceholder"].BorderSizePixel = 0
 Converted["_TextBoxPlaceholder"].Size = UDim2.new(1, 0, 0, 50)
 Converted["_TextBoxPlaceholder"].Visible = false
 Converted["_TextBoxPlaceholder"].Name = "TextBoxPlaceholder"
-Converted["_TextBoxPlaceholder"].Parent = Converted["_YARHM"]
+Converted["_TextBoxPlaceholder"].Parent = Converted["SMR"]
 Converted["_UIListLayout2"].Padding = UDim.new(0, 5)
 Converted["_UIListLayout2"].FillDirection = Enum.FillDirection.Horizontal
 Converted["_UIListLayout2"].HorizontalAlignment = Enum.HorizontalAlignment.Center
@@ -1383,7 +1383,7 @@ Converted["_FloatingButton"].Position = UDim2.new(0, 125, 0, 40)
 Converted["_FloatingButton"].Size = UDim2.new(0, 50, 0, 100)
 Converted["_FloatingButton"].Visible = false
 Converted["_FloatingButton"].Name = "FloatingButton"
-Converted["_FloatingButton"].Parent = Converted["_YARHM"]
+Converted["_FloatingButton"].Parent = Converted["SMR"]
 Converted["_UIPadding5"].PaddingBottom = UDim.new(0, 5)
 Converted["_UIPadding5"].PaddingLeft = UDim.new(0, 5)
 Converted["_UIPadding5"].PaddingRight = UDim.new(0, 5)
@@ -1420,7 +1420,7 @@ Converted["_FloatingButtons"].Position = UDim2.new(0.5, 0, 0.5, 0)
 Converted["_FloatingButtons"].Size = UDim2.new(1, 0, 1, 0)
 Converted["_FloatingButtons"].ZIndex = 3
 Converted["_FloatingButtons"].Name = "FloatingButtons"
-Converted["_FloatingButtons"].Parent = Converted["_YARHM"]
+Converted["_FloatingButtons"].Parent = Converted["SMR"]
 Converted["_AddCustomModule"].AnchorPoint = Vector2.new(0.5, 0.5)
 Converted["_AddCustomModule"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_AddCustomModule"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1430,7 +1430,7 @@ Converted["_AddCustomModule"].Position = UDim2.new(0.5, 0, -0.5, 0)
 Converted["_AddCustomModule"].Size = UDim2.new(0, 440, 0, 268)
 Converted["_AddCustomModule"].ZIndex = 3
 Converted["_AddCustomModule"].Name = "AddCustomModule"
-Converted["_AddCustomModule"].Parent = Converted["_YARHM"]
+Converted["_AddCustomModule"].Parent = Converted["SMR"]
 Converted["_UICorner8"].Parent = Converted["_AddCustomModule"]
 Converted["_UIStroke2"].Color = Color3.fromRGB(255, 255, 255)
 Converted["_UIStroke2"].Thickness = 2
@@ -1556,7 +1556,7 @@ Converted["_Menu"].BorderSizePixel = 0
 Converted["_Menu"].Position = UDim2.new(0.5, 0, 0.0500000007, 0)
 Converted["_Menu"].Size = UDim2.new(0, 441, 0, 268)
 Converted["_Menu"].Name = "Menu"
-Converted["_Menu"].Parent = Converted["_YARHM"]
+Converted["_Menu"].Parent = Converted["SMR"]
 Converted["_UICorner12"].Parent = Converted["_Menu"]
 Converted["_UIScale2"].Parent = Converted["_Menu"]
 Converted["_UIStroke5"].Color = Color3.fromRGB(255, 255, 255)
@@ -1680,7 +1680,7 @@ Converted["_HubDesc"].Size = UDim2.new(0.470515788, 0, 0.082417585, 0)
 Converted["_HubDesc"].Name = "HubDesc"
 Converted["_HubDesc"].Parent = Converted["_Menu"]
 Converted["_HubName"].Font = Enum.Font.GothamBold
-Converted["_HubName"].Text = "YARHM"
+Converted["_HubName"].Text = "SMR"
 Converted["_HubName"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubName"].TextScaled = true
 Converted["_HubName"].TextSize = 14
@@ -1779,7 +1779,7 @@ Converted["_TextLabel4"].Position = UDim2.new(0.4923051, 0, 0.46438089, 0)
 Converted["_TextLabel4"].Size = UDim2.new(0, 200, 0, 50)
 Converted["_TextLabel4"].Parent = Converted["_Area1"]
 Converted["_TextLabel5"].Font = Enum.Font.GothamBold
-Converted["_TextLabel5"].Text = "YARHM"
+Converted["_TextLabel5"].Text = "SMR"
 Converted["_TextLabel5"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel5"].TextScaled = true
 Converted["_TextLabel5"].TextSize = 14
@@ -1844,7 +1844,7 @@ Converted["_Toggle"].BorderSizePixel = 0
 Converted["_Toggle"].Size = UDim2.new(1, 0, 0, 35)
 Converted["_Toggle"].Visible = false
 Converted["_Toggle"].Name = "Toggle"
-Converted["_Toggle"].Parent = Converted["_YARHM"]
+Converted["_Toggle"].Parent = Converted["SMR"]
 Converted["_TextLabel7"].Font = Enum.Font.Unknown
 Converted["_TextLabel7"].Text = "Loop walkspeed and FOV"
 Converted["_TextLabel7"].TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -1892,7 +1892,7 @@ Converted["_Toggler"].Name = "Toggler"
 Converted["_Toggler"].Parent = Converted["_Frame2"]
 Converted["_UICorner19"].CornerRadius = UDim.new(1, 0)
 Converted["_UICorner19"].Parent = Converted["_Toggler"]
-Converted["_ImageLabel1"].Image = "rbxassetid://10002373478"
+Converted["_ImageLabel1"].Image = "rbxassetid://74603139524347"
 Converted["_ImageLabel1"].ImageColor3 = Color3.fromRGB(255, 0, 4.000000236555934)
 -- Converted["_ImageLabel1"].ImageContent = Content
 Converted["_ImageLabel1"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -1906,7 +1906,7 @@ Converted["_ImageLabel1"].Parent = Converted["_Toggler"]
 Converted["_UIPadding12"].PaddingRight = UDim.new(0.0700000003, 0)
 Converted["_UIPadding12"].Parent = Converted["_Toggle"]
 Converted["_Modules"].Name = "Modules"
-Converted["_Modules"].Parent = Converted["_YARHM"]
+Converted["_Modules"].Parent = Converted["SMR"]
 Converted["_NotificationSample"].AnchorPoint = Vector2.new(0.5, 0)
 Converted["_NotificationSample"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_NotificationSample"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -1917,7 +1917,7 @@ Converted["_NotificationSample"].Size = UDim2.new(0, 400, 0, 50)
 Converted["_NotificationSample"].Visible = false
 Converted["_NotificationSample"].ZIndex = 5
 Converted["_NotificationSample"].Name = "NotificationSample"
-Converted["_NotificationSample"].Parent = Converted["_YARHM"]
+Converted["_NotificationSample"].Parent = Converted["SMR"]
 Converted["_UICorner20"].CornerRadius = UDim.new(0, 10)
 Converted["_UICorner20"].Parent = Converted["_NotificationSample"]
 Converted["_UIStroke8"].Color = Color3.fromRGB(255, 255, 255)
@@ -1928,7 +1928,7 @@ Converted["_UIGradient8"].Color = ColorSequence.new{
 	ColorSequenceKeypoint.new(1, Color3.fromRGB(12.000000234693289, 12.000000234693289, 12.000000234693289))
 }
 Converted["_UIGradient8"].Parent = Converted["_NotificationSample"]
-Converted["_ImageLabel2"].Image = "rbxassetid://11780939099"
+Converted["_ImageLabel2"].Image = "rbxassetid://74603139524347"
 -- Converted["_ImageLabel2"].ImageContent = Content
 Converted["_ImageLabel2"].ScaleType = Enum.ScaleType.Fit
 Converted["_ImageLabel2"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -1955,7 +1955,7 @@ Converted["_TextLabel8"].Size = UDim2.new(0.600000024, 0, 0.600000024, 0)
 Converted["_TextLabel8"].Parent = Converted["_NotificationSample"]
 Converted["_UITextSizeConstraint"].MaxTextSize = 30
 Converted["_UITextSizeConstraint"].Parent = Converted["_TextLabel8"]
-Converted["_Close"].Image = "rbxassetid://10002373478"
+Converted["_Close"].Image = "rbxassetid://74603139524347"
 -- Converted["_Close"].ImageContent = Content
 Converted["_Close"].ScaleType = Enum.ScaleType.Fit
 Converted["_Close"].Active = false
@@ -1986,7 +1986,7 @@ Converted["_Dialog"].Size = UDim2.new(0, 313, 0, 147)
 Converted["_Dialog"].Visible = false
 Converted["_Dialog"].ZIndex = 5
 Converted["_Dialog"].Name = "Dialog"
-Converted["_Dialog"].Parent = Converted["_YARHM"]
+Converted["_Dialog"].Parent = Converted["SMR"]
 Converted["_UICorner22"].Parent = Converted["_Dialog"]
 Converted["_UIGradient9"].Color = ColorSequence.new{
 	ColorSequenceKeypoint.new(0, Color3.fromRGB(36.00000165402889, 36.00000165402889, 36.00000165402889)),
@@ -2103,7 +2103,7 @@ Converted["_Range"].BorderSizePixel = 0
 Converted["_Range"].Size = UDim2.new(1, 0, 0, 35)
 Converted["_Range"].Visible = false
 Converted["_Range"].Name = "Range"
-Converted["_Range"].Parent = Converted["_YARHM"]
+Converted["_Range"].Parent = Converted["SMR"]
 Converted["_TextLabel9"].Font = Enum.Font.Unknown
 Converted["_TextLabel9"].Text = "How many #### I give"
 Converted["_TextLabel9"].TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -2167,7 +2167,7 @@ Converted["_FloatingButtonSetting"].Size = UDim2.new(1, 0, 1, 0)
 Converted["_FloatingButtonSetting"].Visible = false
 Converted["_FloatingButtonSetting"].ZIndex = 10
 Converted["_FloatingButtonSetting"].Name = "FloatingButtonSetting"
-Converted["_FloatingButtonSetting"].Parent = Converted["_YARHM"]
+Converted["_FloatingButtonSetting"].Parent = Converted["SMR"]
 Converted["_ControlBarContainer"].AnchorPoint = Vector2.new(0.5, 1)
 Converted["_ControlBarContainer"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ControlBarContainer"].BackgroundTransparency = 1
@@ -2284,7 +2284,7 @@ local fake_module_scripts = {}
 do -- Fake Module: StarterGui.YARHM.FUNCTIONS
     local script = Instance.new("ModuleScript")
     script.Name = "FUNCTIONS"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local FUNCTIONSmodule = {}
 		
@@ -2310,7 +2310,7 @@ do -- Fake Module: StarterGui.YARHM.FUNCTIONS
 		
 		
 		
-		local YARHMPointSave = PointSave.new("YARHM")
+		local YARHMPointSave = PointSave.new("SMR")
 		
 		local States = {}
 		local toggleStates = {}
@@ -2386,10 +2386,10 @@ do -- Fake Module: StarterGui.YARHM.FUNCTIONS
 		selected.Name = "Selected"
 		
 		local icons = {
-			info = "rbxassetid://11780939099",
-			x = "rbxassetid://10002373478",
-			cross = "rbxassetid://10002373478",
-			check = "rbxassetid://11604833061"
+			info = "rbxassetid://74603139524347",
+			x = "rbxassetid://74603139524347",
+			cross = "rbxassetid://74603139524347",
+			check = "rbxassetid://74603139524347"
 		}
 		
 		
@@ -2959,7 +2959,7 @@ do -- Fake Module: StarterGui.YARHM.FUNCTIONS
 					clonetoggletoggler.Parent.BackgroundColor3 = FUNCTIONSmodule.getTheme().primaryColor
 					if toggleStates[item["Args"][1] .. module.Name] then
 						clonetoggletoggler.Position = UDim2.fromScale(0.7, 0.5)
-						clonetoggletoggler.ImageLabel.Image = "rbxassetid://5959696880"
+						clonetoggletoggler.ImageLabel.Image = "rbxassetid://74603139524347"
 					end
 		
 					clonetoggletoggler.MouseButton1Click:Connect(function()
@@ -2968,13 +2968,13 @@ do -- Fake Module: StarterGui.YARHM.FUNCTIONS
 							ts:Create(clonetoggletoggler, TweenInfo.new(0.5, Enum.EasingStyle.Cubic, Enum.EasingDirection.Out), {
 								Position = UDim2.fromScale(0.3, 0.5)
 							}):Play()
-							clonetoggletoggler.ImageLabel.Image = "rbxassetid://10002373478"
+							clonetoggletoggler.ImageLabel.Image = "rbxassetid://74603139524347"
 						else
 							toggleStates[item["Args"][1] .. module.Name] = true
 							ts:Create(clonetoggletoggler, TweenInfo.new(0.5, Enum.EasingStyle.Cubic, Enum.EasingDirection.Out), {
 								Position = UDim2.fromScale(0.7, 0.5)
 							}):Play()
-							clonetoggletoggler.ImageLabel.Image = "rbxassetid://5959696880"
+							clonetoggletoggler.ImageLabel.Image = "rbxassetid://74603139524347"
 						end
 						item["Args"][2](clonetoggletoggler, toggleStates[item["Args"][1] .. module.Name])
 					end)
@@ -3114,7 +3114,7 @@ do -- Fake Module: StarterGui.YARHM.FUNCTIONS
 				end)
 		
 				if not success then
-					warn(("[YARHM] Error loading module %q: %s"):format(module.Name, err))
+					warn(("[SMR] Error loading module %q: %s"):format(module.Name, err))
 				end
 			end
 		end
@@ -3177,7 +3177,7 @@ end
 do -- Fake Module: StarterGui.YARHM.DraggableObject
     local script = Instance.new("ModuleScript")
     script.Name = "DraggableObject"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local function a(b,c)local d=c.AbsoluteSize;local e=c.AbsolutePosition;local f=b.X.Scale*d.X+b.X.Offset;local g=b.Y.Scale*d.Y+b.Y.Offset;local h=math.clamp(f,0,d.X)local i=math.clamp(g,0,d.Y)local j=UDim2.new(b.X.Scale,h-b.X.Scale*d.X,b.Y.Scale,i-b.Y.Scale*d.Y)return j end;local k=UDim2.new;local l=game:GetService("UserInputService")local m=game:GetService("TweenService")local n={}n.__index=n;function n.new(o,p,q,r)local self={}self.Object=o;self.ToMove=p;self.Smooth=q;self.CallbackOnly=r;self.DragStarted=nil;self.DragEnded=nil;self.Dragged=nil;self.Dragging=false;self.LastPosition=nil;self.Velocity=Vector2.new(0,0)setmetatable(self,n)return self end;function n:Enable()local s=self.Object;local t=self.ToMove;local u=nil;local v=nil;local w=nil;local x=false;local function y(z)local A=z.Position-v;local B=UDim2.new(w.X.Scale,w.X.Offset+A.X,w.Y.Scale,w.Y.Offset+A.Y)if self.CallbackOnly then else B=a(B,self.Object:FindFirstAncestorWhichIsA("ScreenGui"))if(self.Smooth==nil or self.Smooth==true)and self.Smooth~=false then m:Create(t and t or s,TweenInfo.new(0.5,Enum.EasingStyle.Cubic,Enum.EasingDirection.Out),{Position=B}):Play()else local C=t and t or s;C.Position=B end end;return B end;self.InputBegan=s.InputBegan:Connect(function(z)if z.UserInputType==Enum.UserInputType.MouseButton1 or z.UserInputType==Enum.UserInputType.Touch then x=true;local D;D=z.Changed:Connect(function()if z.UserInputState==Enum.UserInputState.End and(self.Dragging or x)then self.Dragging=false;D:Disconnect()if self.DragEnded and not x then self.DragEnded(self.Velocity)end;x=false end end)end end)self.InputChanged=s.InputChanged:Connect(function(z)if z.UserInputType==Enum.UserInputType.MouseMovement or z.UserInputType==Enum.UserInputType.Touch then u=z end end)self.InputChanged2=l.InputChanged:Connect(function(z)if s.Parent==nil then self:Disable()return end;if x then x=false;if self.DragStarted then self.DragStarted()end;self.Dragging=true;v=z.Position;if t then w=t.Position else w=s.Position end;self.LastPosition=z.Position end;if z==u and self.Dragging then local B=y(z)self.Velocity=z.Position-self.LastPosition;self.LastPosition=z.Position;if self.Dragged then self.Dragged(B)end end end)end;function n:Disable()self.InputBegan:Disconnect()self.InputChanged:Disconnect()self.InputChanged2:Disconnect()if self.Dragging then self.Dragging=false;if self.DragEnded then self.DragEnded(self.Velocity)end end end;return n
 		
@@ -3187,7 +3187,7 @@ end
 do -- Fake Module: StarterGui.YARHM.ClickAndHold
     local script = Instance.new("ModuleScript")
     script.Name = "ClickAndHold"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local a={}a.__index=a;local b=game:GetService("UserInputService")function a.new(c,d)local self=setmetatable({},a)self.textButton=c;self.holdTime=d or 0.5;self.holdTask=nil;self.initialPosition=nil;self.Holded=Instance.new("BindableEvent")local function e(f,g)return math.sqrt((g.X-f.X)^2+(g.Y-f.Y)^2)end;self.textButton.MouseButton1Down:Connect(function(h,i)self.initialPosition=Vector2.new(h,i)self.holdTask=task.spawn(function()task.wait(self.holdTime)if self.holdTask then self.Holded:Fire()end end)end)b.InputChanged:Connect(function(j)if j.UserInputType==Enum.UserInputType.MouseMovement or j.UserInputType==Enum.UserInputType.Touch then if self.holdTask and self.initialPosition then local k=j.Position;local l=e(self.initialPosition,k)if l>10 then coroutine.close(self.holdTask)self.holdTask=nil end end end end)b.InputEnded:Connect(function(j)if j.UserInputType==Enum.UserInputType.MouseButton1 or j.UserInputType==Enum.UserInputType.Touch then if self.holdTask then coroutine.close(self.holdTask)self.holdTask=nil end;self.initialPosition=nil end end)return self end;return a
     end
@@ -3196,7 +3196,7 @@ end
 do -- Fake Module: StarterGui.YARHM.Spring
     local script = Instance.new("ModuleScript")
     script.Name = "Spring"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local a=game:GetService("RunService")local b={}function OverDamping(c,d,e,f,g,h)local i=d*d-4*e/c;local j=-1/2;local k=d+math.sqrt(i)local l=d-math.sqrt(i)local m,n=j*k,j*l;local o,p=(n*f-g)/(n-m),(m*f-g)/(m-n)local q=h/e;return{Offset=function(r)return o*math.exp(m*r)+p*math.exp(n*r)+q end,Velocity=function(r)return o*m*math.exp(m*r)+p*n*math.exp(n*r)end,Acceleration=function(r)return o*m*m*math.exp(m*r)+p*n*n*math.exp(n*r)end}end;function CriticalDamping(c,d,e,f,g,h)local s=-d/2;local o,p=f,g-s*f;local q=h/e;return{Offset=function(r)return math.exp(s*r)*(o+p*r)+q end,Velocity=function(r)return math.exp(s*r)*(p*s*r+o*s+p)end,Acceleration=function(r)return s*math.exp(s*r)*(p*s*r+o*s+2*p)end}end;function UnderDamping(c,d,e,f,g,h)local i=d*d-4*e/c;local s=-d/2;local t=math.sqrt(-i)local o,p=f,(g-s*f)/t;local q=h/e;return{Offset=function(r)return math.exp(s*r)*(o*math.cos(t*r)+p*math.sin(t*r))+q end,Velocity=function(r)return-math.exp(s*r)*((o*t-p*s)*math.sin(t*r)+(-p*t-o*s)*math.cos(t*r))end,Acceleration=function(r)return-math.exp(s*r)*((p*t*t+2*o*s*t-p*s*s)*math.sin(t*r)+(o*t*t-2*p*s*t-o*s*s)*math.cos(t*r))end}end;function b.F(u)local f,g,h=u.InitialOffset,u.InitialVelocity,u.ExternalForce;local c,d,e=u.Mass,u.Damping,u.Constant;local i=d*d-4*e/c;if i>0 then return OverDamping(c,d,e,f,g,h)elseif i==0 then return CriticalDamping(c,d,e,f,g,h)else return UnderDamping(c,d,e,f,g,h)end end;local v=b;local w=math.sqrt;local x=math.pi;local y={OFFSET="Offset",VELOCITY="Velocity",ACCELERATION="Acceleration",GOAL="Goal",FREQUENCY="Frequency"}local z=[[.]]local A=[[.]]local u={}local B={}B.__index=function(self,C)local D={[y.OFFSET]=function()local r=tick()-self.StartTick;local E=self.F;local F=E.Offset(r)return F end,[y.VELOCITY]=function()local r=tick()-self.StartTick;local E=self.F;local G=E.Velocity(r)return G end,[y.ACCELERATION]=function()local r=tick()-self.StartTick;local E=self.F;local H=E.Acceleration(r)return H end,[y.GOAL]=function()local I=self.ExternalForce;local J=self.Constant;return I/J end,[y.FREQUENCY]=function()local K=self.Damping;local L=self.Constant;local M=self.Mass;return w(-K*K+4*L/M)/(2*x)end}local N=rawget(self,C)if N~=nil then return N end;local O=D[C]if O~=nil then return O()end;return B[C]end;B.__tostring=function(self)local r=tick()-self.StartTick;local E=self.F;local P=self.AdvancedObjectStringEnabled;local Q;if P==false then Q=string.format(z,E.Offset(r),E.Velocity(r),E.Acceleration(r))elseif P==true then Q=string.format(A,self.Mass,self.Damping,self.Constant,self.Goal,self.Frequency,self.InitialOffset,self.InitialVelocity,self.ExternalForce,self.StartTick,E.Offset(r),E.Velocity(r),E.Acceleration(r))end;return Q end;function u.new(M,K,L,f,g,R)assert(M>0,"Mass for spring system cannot be less than or equal to 0")assert(L>0,"Spring constant for spring system cannot be less than or equal to 0")f=f or 0;g=g or 0;R=R or 0;local S=R*L;local T={Mass=M,Damping=K,Constant=L,InitialOffset=f-R,InitialVelocity=g,ExternalForce=S,AdvancedObjectStringEnabled=false,StartTick=0}setmetatable(T,B)T:Reset()return T end;function u.fromFrequency(M,K,U,f,g,R)assert(M>0,"Mass for spring system cannot be less than or equal to 0")assert(U>0,"Spring frequency for spring system cannot be less than or equal to 0")local L=0.25*M*(4*x*x*U*U+K*K)f=f or 0;g=g or 0;R=R or 0;local S=R*L;local T={Mass=M,Damping=K,Constant=L,InitialOffset=f-R,InitialVelocity=g,ExternalForce=S,AdvancedObjectStringEnabled=false,StartTick=0}setmetatable(T,B)T:Reset()return T end;function B:Reset()self.F=v.F(self)self.StartTick=tick()end;function B:SetExternalForce(V)self.ExternalForce=V;self.InitialOffset=self.Offset-V/self.Constant;self.InitialVelocity=self.Velocity;self:Reset()end;function B:SetGoal(R)self.ExternalForce=R*self.Constant;self.InitialOffset=self.Offset-R;self.InitialVelocity=self.Velocity;self:Reset()end;function B:SetFrequency(U)self.Constant=0.25*self.Mass*(4*x*x*U*U+self.Damping*self.Damping)self.InitialOffset=self.Offset;self.InitialVelocity=self.Velocity;self:Reset()end;function B:SnapToCriticalDamping()self.Damping=2*w(self.Constant/self.Mass)self.InitialOffset=self.Offset;self.InitialVelocity=self.Velocity;self:Reset()end;function B:SetOffset(F,W)self.InitialOffset=F-self.Goal;self.InitialVelocity=W and 0 or self.Velocity;self:Reset()end;function B:AddOffset(F)self.InitialOffset=self.Offset+F;self.InitialVelocity=self.Velocity;self:Reset()end;function B:SetVelocity(G)self.InitialOffset=self.Offset;self.InitialVelocity=G;self:Reset()end;function B:AddVelocity(G)self.InitialOffset=self.Offset;self.InitialVelocity=self.Velocity+G;self:Reset()end;function B:Print()local X=tostring(self)print(X)end;return u
     end
@@ -3205,7 +3205,7 @@ end
 do -- Fake Module: StarterGui.YARHM.ESPIndicator
     local script = Instance.new("ModuleScript")
     script.Name = "ESPIndicator"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local e={} e.__index=e local a=game:GetService("RunService") local _=game:GetService("Players") local b=game:GetService("HttpService") local l=game:GetService("TweenService") e.Groups={} e.TargetIndex={} e.Defaults={AccentColor=Color3.new(1,1,0),HighlightFillTransparency=0.7,HighlightOutlineTransparency=0,HighlightDepthMode=Enum.HighlightDepthMode.AlwaysOnTop,ArrowShow=false,ArrowEdgePadding=50,ArrowMinDistance=0,ArrowSize=UDim2.new(0,30,0,30),ArrowImage="rbxassetid://97136202386756",ArrowShowDistanceText=true,ArrowDistanceFont=Enum.Font.Montserrat,ArrowDistanceTextSize=18,ShowLabel=false,LabelText="Target",LabelMaxDistance=99999,LabelOffset=Vector3.new(0,2,0),Parent=game:GetService("CoreGui")} function e.new(b)local c=setmetatable({},e) c.Settings={} for a,_ in pairs(e.Defaults)do c.Settings[a]=(b and b[a]~=nil)and b[a]or _ end local _=c.Settings.Parent or _.LocalPlayer:WaitForChild("PlayerGui") c.ScreenGui=Instance.new("ScreenGui") c.ScreenGui.Name="ESPIndicators" c.ScreenGui.IgnoreGuiInset=true c.ScreenGui.ResetOnSpawn=false c.ScreenGui.Parent=_ c.ArrowTemplate=Instance.new("ImageLabel") c.ArrowTemplate.Name="ArrowTemplate" c.ArrowTemplate.Size=c.Settings.ArrowSize c.ArrowTemplate.AnchorPoint=Vector2.new(0.5,0.5) c.ArrowTemplate.BackgroundTransparency=1 c.ArrowTemplate.Image=c.Settings.ArrowImage c.ArrowTemplate.ImageColor3=c.Settings.AccentColor c.ArrowTemplate.Visible=false c.ArrowTemplate.Parent=c.ScreenGui c.Scaler=Instance.new("UIScale") c.Scaler.Name="Scaler" c.Scaler.Scale=0 c.Scaler.Parent=c.ArrowTemplate c.Indicators={} c._updateConn=a.RenderStepped:Connect(function()c:_update()end) c._cleanupConn=a.Heartbeat:Connect(function()c:_cleanupOrphanedArrows() c:_cleanupOrphanedHighlights() c:_cleanupOrphanedLabels()end) return c end function e:AddGroup(_)local a=e.Groups[_] if not a then a={enabled=true,properties={},targets={}} e.Groups[_]=a end return a end function e:GetGroup(_)return e.Groups[_]end function e:RemoveGroup(b)local _=e.Groups[b] if not _ then return false end for _,_ in ipairs(_.targets)do local c=e.TargetIndex[_] if c then for _,a in ipairs(c)do if a==b then table.remove(c,_) break end end if#c==0 then e.TargetIndex[_]=nil end end if not e.TargetIndex[_]then self:Remove(_)end end e.Groups[b]=nil return true end function e:ClearAllGroups()for a,_ in pairs(e.Groups)do self:RemoveGroup(a)end end function e:ToggleGroup(_,a)local b=e.Groups[_] if not b then return end b.enabled=(a~=nil)and a or not b.enabled for _,_ in ipairs(b.targets)do local _=self.Indicators[_] if _ then if _.Highlight then _.Highlight.Enabled=b.enabled end if _.Arrow then _.Arrow.Visible=b.enabled and self.Settings.ArrowShow end if _.Label then _.Label.Enabled=b.enabled end end end return b.enabled end function e:SetGroupProperty(_,a,b)local _=self:AddGroup(_) _.properties[a]=b for _,_ in ipairs(_.targets)do local _=self.Indicators[_] if _ then if a=="AccentColor"then if _.Highlight then _.Highlight.FillColor=b _.Highlight.OutlineColor=b end if _.Arrow then _.Arrow.ImageColor3=b end if _.DistanceLabel then _.DistanceLabel.TextColor3=b end if _.Label and _.Label:FindFirstChild("TextLabel")then _.Label.TextLabel.TextColor3=b end end end end end function e:Add(a,g)assert(a,"ESPIndicator:Add requires a non-nil target") g=g or{} local d=Instance.new("Highlight") d.Name="Highlight_"..b:GenerateGUID(false) d.Adornee=a d.FillTransparency=g.HighlightFillTransparency or self.Settings.HighlightFillTransparency d.FillColor=g.AccentColor or self.Settings.AccentColor d.OutlineColor=g.AccentColor or self.Settings.AccentColor d.OutlineTransparency=g.HighlightOutlineTransparency or self.Settings.HighlightOutlineTransparency d.DepthMode=g.HighlightDepthMode or self.Settings.HighlightDepthMode d.Parent=self.ScreenGui local c,_,e if(g.ArrowShow or self.Settings.ArrowShow)then c=self.ArrowTemplate:Clone() c.Name="Arrow_"..b:GenerateGUID(false) c.ImageColor3=g.AccentColor or self.Settings.AccentColor c.Visible=true c.Parent=self.ScreenGui _=c:FindFirstChild("Scaler") if(g.ArrowShowDistanceText or self.Settings.ArrowShowDistanceText)then e=Instance.new("TextLabel") e.Name="DistanceLabel" e.AnchorPoint=Vector2.new(0.5,0) e.BackgroundTransparency=1 e.Font=g.ArrowDistanceFont or self.Settings.ArrowDistanceFont e.TextSize=g.ArrowDistanceTextSize or self.Settings.ArrowDistanceTextSize e.TextColor3=g.AccentColor or self.Settings.AccentColor e.Parent=c end end local f if(g.ShowLabel or self.Settings.ShowLabel)then f=Instance.new("BillboardGui") f.Name="Label_"..b:GenerateGUID(false) f.AlwaysOnTop=true f.MaxDistance=self.Settings.LabelMaxDistance f.Size=UDim2.new(0,70,0,70) f.StudsOffset=self.Settings.LabelOffset f.Adornee=a f.Parent=self.ScreenGui local _=Instance.new("TextLabel") _.Name="TextLabel" _.Size=UDim2.new(1,0,1,0) _.AnchorPoint=Vector2.new(0.5,0.5) _.Position=UDim2.new(0.5,0,0.5,0) _.BackgroundTransparency=1 _.Font=Enum.Font.SourceSansBold _.TextScaled=true _.TextWrapped=true _.TextSize=14 _.TextColor3=g.AccentColor or self.Settings.AccentColor _.Text=g.LabelText or self.Settings.LabelText _.Parent=f Instance.new("UIStroke",_)end self.Indicators[a]={Highlight=d,Arrow=c,Scaler=_,DistanceLabel=e,Label=f,Options=g} local _=g.GroupName or self.Settings.GroupName if _ then self:AddToGroup(a,_)end end function e:Remove(c)local _=self.Indicators[c] if not _ then return end if _.Highlight then _.Highlight.Adornee=nil _.Highlight:Destroy()end if _.Arrow then _.Arrow:Destroy()end if _.Label then _.Label:Destroy()end local _=e.TargetIndex[c] if _ then for _,_ in ipairs(_)do local b=e.Groups[_] if b then for a,_ in ipairs(b.targets)do if _==c then table.remove(b.targets,a) break end end end end e.TargetIndex[c]=nil end self.Indicators[c]=nil end function e:AddToGroup(c,b)local _=self:AddGroup(b) if not table.find(_.targets,c)then table.insert(_.targets,c)end local a=e.TargetIndex[c] if not a then a={} e.TargetIndex[c]=a end if not table.find(a,b)then table.insert(a,b)end for a,_ in pairs(_.properties)do self:SetGroupProperty(b,a,_)end if not _.enabled then local _=self.Indicators[c] if _ and _.Highlight then _.Highlight.Enabled=false end end return true end function e:RemoveFromGroup(d,b)local c=e.Groups[b] if not c then return false end if table.find(c.targets,d)then for _,a in ipairs(c.targets)do if a==d then table.remove(c.targets,_) break end end else return false end local c=e.TargetIndex[d] if c then for a,_ in ipairs(c)do if _==b then table.remove(c,a) break end end if#c==0 then e.TargetIndex[d]=nil end end return true end function e:GetGroupTargets(_)local _=e.Groups[_] return _ and _.targets or{}end function e:GetTargetGroups(_)return e.TargetIndex[_]or{}end function e:_cleanupOrphanedHighlights()for _,_ in ipairs(self.ScreenGui:GetChildren())do if _:IsA("Highlight")and not table.find(self:_allHighlights(),_)then _.Adornee=nil _:Destroy()end end end function e:_allHighlights()local a={} for _,_ in pairs(self.Indicators)do if _.Highlight then table.insert(a,_.Highlight)end end return a end function e:_cleanupOrphanedArrows()for _,_ in ipairs(self.ScreenGui:GetChildren())do if _:IsA("ImageLabel")and _.Name:match("^Arrow_")then if not table.find(self:_allArrows(),_)then _:Destroy()end end end end function e:_allArrows()local a={} for _,_ in pairs(self.Indicators)do if _.Arrow then table.insert(a,_.Arrow)end end return a end function e:_cleanupOrphanedLabels()for _,_ in ipairs(self.ScreenGui:GetChildren())do if _:IsA("BillboardGui")and _.Name:match("^Label_")then if not table.find(self:_allLabels(),_)then _.Adornee=nil _:Destroy()end end end end function e:_allLabels()local a={} for _,_ in pairs(self.Indicators)do if _.Label then table.insert(a,_.Label)end end return a end function e:_update()local a=workspace.CurrentCamera local _=a.ViewportSize local f,i=_.X,_.Y for _,p in pairs(self.Indicators)do local j=p.Options local h=p.Arrow local k=p.Scaler if((not h)or(not k))and self.Settings.ArrowShow then self:Remove(_) continue end if not h then continue end local n if _:IsA("Model")then n=(_.PrimaryPart and _.PrimaryPart.Position)or _:GetModelCFrame().p elseif _:IsA("BasePart")then n=_.Position else continue end local m,e=a:WorldToViewportPoint(n) local c=(a.CFrame.p-n).Magnitude local _=j.ArrowMinDistance or self.Settings.ArrowMinDistance local o=j.ArrowEdgePadding or self.Settings.ArrowEdgePadding if e and c>_ then l:Create(k,TweenInfo.new(0.1,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Scale=0}):Play()else l:Create(k,TweenInfo.new(0.1,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Scale=1}):Play() local d,g=f-o*2,i-o*2 local b=a.CFrame local _=math.sqrt((d/2)^2+(g/2)^2) local a=n-b.Position local a=b:VectorToObjectSpace(a) local n=Vector2.new(a.X,a.Y).Unit local a=math.clamp(m.X,o,f-o) local b=math.clamp(m.Y,o,i-o) if a==m.X and b==m.Y and e then l:Create(k,TweenInfo.new(0.1,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Scale=0}):Play()else local _=n*_ local b if math.abs(_.Y)>g/2 then b=n*math.abs((g/2)/n.Y)else b=n*math.abs((d/2)/n.X)end local a=f/2+b.X local _=i/2-b.Y local b=math.atan2(n.X,n.Y) l:Create(h,TweenInfo.new(0.1,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),{Position=UDim2.fromOffset(a,_),Rotation=math.deg(b)}):Play()end if p.DistanceLabel then p.DistanceLabel.Text=string.format("%dm",math.round(c)) local _=(j.ArrowSize and j.ArrowSize.Y.Offset or self.Settings.ArrowSize.Y.Offset)+16 p.DistanceLabel.Position=UDim2.new(0.5,0,0,_)end end end end function e:Destroy()if self._updateConn then self._updateConn:Disconnect()end if self._cleanupConn then self._cleanupConn:Disconnect()end self:ClearAllGroups() for _,_ in pairs(self.Indicators)do if _.Highlight then _.Highlight:Destroy()end if _.Arrow then _.Arrow:Destroy()end if _.Label then _.Label:Destroy()end end self.ScreenGui:Destroy() self.Indicators={} e.Groups={} e.TargetIndex={}end return e
     end
@@ -3214,7 +3214,7 @@ end
 do -- Fake Module: StarterGui.YARHM.Bezier
     local script = Instance.new("ModuleScript")
     script.Name = "Bezier"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local h={} h.__index=h function h.new(...)local k={...} assert(#k>=3,"Must have at least 3 points") local e=(#k==3) local _=(#k==4) local j={} local d=Vector3.new local b=d().lerp local f=nil local i={} local c=0 local a=nil local function g(_)local _={_.X,_.Y,_.Z} function _:ToVector3()return d(self[1],self[2],self[3])end function _:lerp(_,a)return b(self:ToVector3(),_:ToVector3(),a)end return _ end if(not e and not _)then for _=1,#k-1 do local a=g(k[_]) local _=g(k[_+1]) local _={a,_,g(a)} i[#i+1]=_ end local b=i for _=#i,2,-1 do local a={} for c=1,_-1 do local b,_=b[c],b[c+1] local _={b[3],_[3],g(b[3])} a[c]=_ i[#i+1]=_ end b=a end a=b[1] c=#i end if(e)then local b,c,_=k[1],k[2],k[3] function j:Get(d,a)if(a)then d=(d<0 and 0 or d>1 and 1 or d)end return(1-d)*(1-d)*b+2*(1-d)*d*c+d*d*_ end elseif(_)then local _,a,c,b=k[1],k[2],k[3],k[4] function j:Get(e,d)if(d)then e=(e<0 and 0 or e>1 and 1 or e)end return(1-e)*(1-e)*(1-e)*_+3*(1-e)*(1-e)*e*a+3*(1-e)*e*e*c+e*e*e*b end else function j:Get(b,_)if(_)then b=(b<0 and 0 or b>1 and 1 or b)end for _=1,c do local _=i[_] local a=_[1]:lerp(_[2],b) local _=_[3] _[1],_[2],_[3]=a.X,a.Y,a.Z end return a[3]:ToVector3()end end function j:GetLength(_)if(not f)then local a=self:GetPath(_ or 0.1) local b=0 for _=2,#a do local _=(a[_-1]-a[_]).Magnitude b=(b+_)end f=b end return f end function j:GetPath(_)assert(type(_)=="number","Must provide a step increment") assert(_>0 and _<1,"Step out of domain; should be between 0 and 1 (exclusive)") local b={} local a=0 for _=0,1,_ do a=_ b[#b+1]=self:Get(_)end if(a<1)then local _=((1-a)<(_*0.5)) b[#b+(_ and 0 or 1)]=self:Get(1)end return b end function j:GetPathByNumberSegments(_)assert(type(_)=="number","Must provide number of segments") assert(_>0,"Number of segments must be greater than 0") return self:GetPath(1/_)end function j:GetPathBySegmentLength(a)assert(type(a)=="number","Must provide a segment length") assert(a>0,"Segment length must be greater than 0") local _=self:GetLength() local _=_/a return self:GetPathByNumberSegments(math.floor(_+0.5))end function j:GetPoints()return k end return setmetatable(j,h)end return h
     end
@@ -3223,7 +3223,7 @@ end
 do -- Fake Module: StarterGui.YARHM.Theme
     local script = Instance.new("ModuleScript")
     script.Name = "Theme"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		-- Theme module
 		
@@ -3388,7 +3388,7 @@ end
 do -- Fake Module: StarterGui.YARHM.PointSave
     local script = Instance.new("ModuleScript")
     script.Name = "PointSave"
-    script.Parent = Converted["_YARHM"]
+    script.Parent = Converted["SMR"]
     local function module_script()
 		local _=false local function d(...)if _ then print("[PointSave DEBUG]:",...)end end _G._FOLDERS=_G._FOLDERS or{} _G._FILES=_G._FILES or{} isfolder=isfolder or function(_)d("Checking if folder exists:",_) return _G._FOLDERS[_]~=nil end makefolder=makefolder or function(_)d("Creating folder:",_) _G._FOLDERS[_]={} return _G._FOLDERS[_]end isfile=isfile or function(_)d("Checking if file exists:",_) return _G._FILES[_]~=nil end writefile=writefile or function(a,_)d("Writing file:",a,"with content:",_) _G._FILES[a]=_ return _G._FILES[a]end readfile=readfile or function(_)d("Reading file:",_) return _G._FILES[_]end delfile=delfile or function(_)d("Deleting file:",_) _G._FILES[_]=nil end listfiles=listfiles or function(c)d("Listing files in folder:",c) local _=_G._FOLDERS[c] if _ then local a={} for b,_ in pairs(_G._FILES)do if b:sub(1,#c+1)==c.."/"then local _=b:sub(#c+2) d("Found file in folder:",_) table.insert(a,_)end end return a end d("Folder does not exist:",c) return{}end local b={} b.__index=b local c="PointSaveData" local function _()if not isfolder(c)then d("Base folder not found, creating:",c) makefolder(c)else d("Base folder already exists:",c)end end function b.new(a)d("Initializing new PointSave instance for namespace:",a) _() local _=setmetatable({},b) _.namespace=a _.folderPath=c.."/"..a if not isfolder(_.folderPath)then d("Namespace folder does not exist, creating:",_.folderPath) makefolder(_.folderPath)else d("Namespace folder already exists:",_.folderPath)end return _ end function b:set(b,a)local _=self.folderPath.."/"..b..".txt" d("Setting value for key:",b,"->",a) writefile(_,tostring(a))end function b:get(a)local _=self.folderPath.."/"..a..".txt" d("Getting value for key:",a) if isfile(_)then local _=readfile(_) d("Found value for key:",a,"->",_) return _ end d("Key not found:",a) return nil end function b:remove(a)local _=self.folderPath.."/"..a..".txt" d("Removing key:",a) if isfile(_)then delfile(_) d("Removed file for key:",a)else d("File for key does not exist:",a)end end function b:clear()d("Clearing all keys in namespace:",self.namespace) local _=listfiles(self.folderPath) for _,_ in ipairs(_)do local _=self.folderPath.."/".._ if isfile(_)then d("Deleting file:",_) delfile(_)end end end function b.deleteNamespace(a)local b=c.."/"..a d("Deleting namespace:",a) local _=listfiles(b) for _,_ in ipairs(_)do local _=b.."/".._ if isfile(_)then d("Deleting file from namespace:",_) delfile(_)end end _G._FOLDERS[b]=nil d("Deleted folder for namespace:",a)end function b.listNamespaces()d("Listing all namespaces") _() local b={} for a,_ in pairs(_G._FOLDERS)do if a:sub(1,#c+1)==c.."/"then local _=a:sub(#c+2) d("Found namespace:",_) table.insert(b,_)end end return b end return b
     end
